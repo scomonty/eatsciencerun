@@ -1,0 +1,18 @@
+/*
+Theme Name: ESR
+Theme URI:;
+Author: Scott Montgomery;
+Description: Eat Science Run
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI:
+Text Domain: eatsciencerun.com
+*/
+body {
+  padding-top: 50px;
+  padding-bottom: 20px; }
+
+.admin-bar .navbar-fixed-top {
+  margin-top: 32px; }
+
+/*# sourceMappingURL=style.css.map */
